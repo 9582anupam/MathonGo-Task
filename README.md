@@ -13,7 +13,7 @@ This Python script converts Latex-formatted text data into JSON format. It parse
 
 ## Run the Script:
 Execute the script by running:
-python latex_to_json_parser.py
+python script.py
 
 
 ## Input Data:

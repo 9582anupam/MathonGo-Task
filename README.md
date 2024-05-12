@@ -8,7 +8,7 @@ This Python script converts Latex-formatted text data into JSON format. It parse
 ## Usage
 1. **Clone the Repository:**
    ```bash
-   git clone <https://github.com/9582anupam/MathonGo-Task/>
+   git clone https://github.com/9582anupam/MathonGo-Task/
 
 
 ## Run the Script:
